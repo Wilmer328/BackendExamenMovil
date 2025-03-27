@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\services\\tareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\services\\tareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|c:\\users\\user\\desktop\\progra movil\\backendexamenmovil\\examenbackendmovil\\examenbackendmovil\\examenbackendmovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA90B041-A660-4833-8C32-2558781DBE88}|ExamenBackendMovil\\ExamenBackendMovil.csproj|solutionrelative:examenbackendmovil\\examenbackendmovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\Tareas.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Models\\Tareas.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\Tareas.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Models\\Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:44:01.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:36:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Data\\DataContext.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:39:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:17:25.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Models\\Usuario.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:44:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TareaService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Services\\TareaService.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Services\\TareaService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Services\\TareaService.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Services\\TareaService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:29:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:45:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Program.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:00:02.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\appsettings.json",
+              "RelativeToolTip": "ExamenBackendMovil\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T00:56:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:16:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamenBackendMovil\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:07:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ExamenBackendMovil\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T05:06:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExamenBackendMovil\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T00:32:01.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamenBackendMovil.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\ExamenBackendMovil.csproj",
+              "RelativeDocumentMoniker": "ExamenBackendMovil\\ExamenBackendMovil.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Progra Movil\\BackendExamenMovil\\ExamenBackendMovil\\ExamenBackendMovil\\ExamenBackendMovil.csproj",
+              "RelativeToolTip": "ExamenBackendMovil\\ExamenBackendMovil.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T00:34:48.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
